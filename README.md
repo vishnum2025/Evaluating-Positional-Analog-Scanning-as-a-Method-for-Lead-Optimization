@@ -6,7 +6,7 @@ Screening the ChEMBL database to find analog pairs that have been tested in the 
 
 # Key Methods:
 
-#Feature Engineering
+# Feature Engineering
 Morgan Fingerprints and external descriptors (e.g., logP, HAC) used to represent molecules.
 
 Variance Filtering and Hierarchical Clustering (Silhouette Score ~0.66 for ~621 clusters) to reduce redundancy.
